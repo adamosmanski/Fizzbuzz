@@ -1,0 +1,6 @@
+﻿[PL]
+
+Napisz program, który wyświetla liczby od 1 do 100. Dla liczb podzielnych przez 3 niech program wyświetli „Fizz”; dla liczb podzielnych przez 5 niech wyświetli 'Buzz’; a dla liczb podzielnych przez 15 niech wyświetli 'FizzBuzz’.
+
+[ENG]
+Write a program that displays the numbers from 1 to 100. For numbers that are divisible by 3, have the program print "Fizz"; for numbers divisible by 5, let it print 'Buzz'; and for numbers that are divisible by 15, have it display 'FizzBuzz'.
